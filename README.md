@@ -15,7 +15,7 @@ and uses babel to enable ES6+ features.
   ```bash
   npm run dev
   ```
-4. To get the production  build**
+4. To get the production  build
  ```bash
  npm run build
  ```
